@@ -2,7 +2,7 @@
 - 👀 I’m interested in Development and Machine Learning
 - 🌱 I’m currently learning C++ Game development
 - 💞️ I’m looking to collaborate on .
-- 📫 How to reach me @dhruvsingh9893@gmail.com
+- 📫 How to reach me dhruvsingh9893@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
